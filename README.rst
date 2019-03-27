@@ -1,16 +1,8 @@
 =========================
-dand_explore_weather_data
+Explore Weather Data
 =========================
 
-
-Add a short description here!
-
-
-Description
-===========
-
-A longer description of your project goes here...
-
+Project from Udacity's Data Analyst Nanodegree Programm
 
 Note
 ====

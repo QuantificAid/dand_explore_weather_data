@@ -1,5 +1,5 @@
 # dand_explore_weather_data
-***"Explore Weather Data" - ***  
+***"Explore Weather Data" -***  
 ***A Project in course of Udacity's Data Analyst Nanodegree Program***
 
 ## Summary
